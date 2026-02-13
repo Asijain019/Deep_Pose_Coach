@@ -1,0 +1,6 @@
+data/
+models/
+venv_tf/
+__pycache__/
+*.pyc
+*.npz
